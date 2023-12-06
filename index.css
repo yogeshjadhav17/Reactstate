@@ -1,0 +1,29 @@
+body{
+  background-color: sandybrown;
+  color:black;
+  font-size:22px;
+  font-weight: 600;
+  text-transform: capitalize;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.website{
+  background-color: blueviolet;
+  color:saddlebrown;
+  font-size: 23px;
+  font-weight: bold;
+  text-transform: capitalize;
+  text-align: center;
+  display:inline;
+  padding:10px;
+}
+.Fruit{
+  background-color: blanchedalmond;
+  color:white;
+  font-size: 23px;
+  font-weight: bold;
+  text-transform: capitalize;
+  text-align: center;
+  display:inline;
+  padding:10px;
+}
+
